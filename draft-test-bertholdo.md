@@ -37,14 +37,14 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This is just a test in the repository
 
 
 --- middle
 
 # Introduction
 
-TODO Introduction
+This is just a test in the repository
 
 
 # Conventions and Definitions
