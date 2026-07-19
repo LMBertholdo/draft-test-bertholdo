@@ -19,17 +19,17 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "GitHub Test"
+abbrev: "GHT"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-test-bertholdo-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
-v: 3
-area: AREA
+v: 1
+area: OPS
 workgroup: WG Working Group
 keyword:
  - next generation
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Leandro M. Bertholdo
+    organization: UFRGS
+    email: leandro.bertholdo@gmail.com
 
 normative:
 
@@ -57,14 +57,14 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This is just a test in the repository
 
 
 --- middle
 
 # Introduction
 
-TODO Introduction
+This is just a test in the repository
 
 
 # Conventions and Definitions
