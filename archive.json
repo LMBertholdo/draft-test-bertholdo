@@ -1,0 +1,83 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T01:17:23.801444+00:00",
+  "repo": "LMBertholdo/draft-test-bertholdo",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKFTs7zhicC",
+      "title": "Revise draft-test-bertholdo with new details",
+      "url": "https://github.com/LMBertholdo/draft-test-bertholdo/pull/1",
+      "state": "MERGED",
+      "author": "LMBertholdo",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Updated document metadata and content for testing purposes.",
+      "createdAt": "2026-07-19T11:24:25Z",
+      "updatedAt": "2026-07-19T11:32:01Z",
+      "baseRepository": "LMBertholdo/draft-test-bertholdo",
+      "baseRefName": "main",
+      "baseRefOid": "ebc866ebec53985e502ae40d110b85ce5b17b2c7",
+      "headRepository": "LMBertholdo/draft-test-bertholdo",
+      "headRefName": "LMBertholdo-patch-1",
+      "headRefOid": "94bec1965c9dcb6242c32701d59319d039a21c7a",
+      "closedAt": "2026-07-19T11:32:01Z",
+      "mergedAt": "2026-07-19T11:32:01Z",
+      "mergedBy": "LMBertholdo",
+      "mergeCommit": {
+        "oid": "e71e023b10060d25d8f227b781d293b8691e2002"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
